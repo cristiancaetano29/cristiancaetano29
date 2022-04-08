@@ -2,6 +2,8 @@
 
 - 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 
+[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-c-6b2156224/" height="22" />][linkedin]
+
 <div align="center">
   <a href="https://github.com/cristiancaetano29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancaetano29&layout=compact&langs_count=7&theme=highcontrast"/>
