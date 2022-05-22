@@ -1,4 +1,4 @@
-### Olá! 
+### Hiii, What brings you here? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java.
