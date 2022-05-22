@@ -5,7 +5,7 @@
 
 ##
 
-### Contato:
+## Contato:
 <a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cristian-c-6b2156224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,7 +34,7 @@
   ##
   
 <div align="center">
-  <h3>visitor counter</h3>
+  <h2>visitor counter</h2>
   <img src="https://profile-counter.glitch.me/cristiancaetano29/count.svg" alt="Visitor" title="Visitor"/>
   
   ![Snake animation](https://github.com/cristiancaetano29/cristiancaetano29/blob/output/github-contribution-grid-snake.svg) 
