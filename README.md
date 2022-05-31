@@ -1,4 +1,4 @@
-## Hiii, What brings you here? 
+## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Hiii, What brings you here? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java e SQL.
