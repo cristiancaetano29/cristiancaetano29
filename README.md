@@ -1,4 +1,4 @@
-## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="20px"> Hiii, What brings you here? 
+## Hiii, What brings you here? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java e SQL.
@@ -8,7 +8,7 @@
 ## Contato:
 <a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cristian-c-6b2156224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="90px">
+<a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="10px">
 
 ##
 <div align="center">
