@@ -1,19 +1,23 @@
-## Hiii, What brings you here? 
+### Hiii, What brings you here? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java e SQL.
 
 ##
 
-## Contato:
+### Contato:
 <a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cristian-c-6b2156224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="10px">
-
-##
+<a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<!--
+<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="10px">
+-->
+<!--
 <div align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="150px">
 </div>
+-->
+##
 
 <div align="center">
   <a href="https://github.com/cristiancaetano29">
@@ -38,9 +42,9 @@
   
 <div align="center">
   <h2>visitor counter</h2> 
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/hmm.gif" width="32px">
+ <!--  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/hmm.gif" width="32px"> -->
     <img src="https://profile-counter.glitch.me/cristiancaetano29/count.svg" alt="Visitor" title="Visitor"/>
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/hmm.gif" width="32px">
+ <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/hmm.gif" width="32px"> -->
   
   ![Snake animation](https://github.com/cristiancaetano29/cristiancaetano29/blob/output/github-contribution-grid-snake.svg) 
 </div
