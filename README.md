@@ -21,6 +21,10 @@
   <a href="https://github.com/cristiancaetano29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancaetano29&layout=compact&langs_count=7&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiancaetano29&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristiancaetano29&hide=Html&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristiancaetano29&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiancaetano29&theme=nord_dark)
   
   
   
