@@ -1,6 +1,7 @@
 ### Hiii, What brings you here? 
 
-#### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
+#### 🌱 Estou atualmente cursando Sistemas de Informação no Centro Universitário Adventista de São Paulo Campus. ||
+Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando React, JavaScript, html, css, Java e SQL.
 
 ##
