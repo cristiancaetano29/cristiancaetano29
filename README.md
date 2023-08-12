@@ -1,12 +1,11 @@
 ### Hiii, What brings you here? 
 
-#### 🌱 Estou atualmente cursando Sistemas de Informação no Centro Universitário Adventista de São Paulo Campus. ||
-Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
-#### 🧾 Atualmente Estudando React, JavaScript, html, css, Java e SQL.
+#### 🌱 I am currently studying Information Systems at Centro Universitário Adventista de São Paulo Campus. ||
+Systems Development at Cotuca Colégio Técnico de Campinas.
+#### 🧾 Currently Studying Salesforce, React, JavaScript, html, css, Java and SQL.
+#### ☁ currently working with salesforce, in the role of SalesfoceDeveloper
 
-##
-
-### Contato:
+### Contact:
 <a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cristian-c-6b2156224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
