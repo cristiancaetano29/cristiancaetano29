@@ -3,7 +3,7 @@
 #### 🌱 I am currently studying Information Systems at Centro Universitário Adventista de São Paulo Campus. ||
 Systems Development at Cotuca Colégio Técnico de Campinas.
 #### 🧾 Currently Studying Salesforce, React, JavaScript, html, css, Java and SQL.
-#### ☁ currently working with salesforce, in the role of SalesfoceDeveloper
+#### ☁ Currently working with salesforce, in the role of Salesforce Developer
 
 ### Contact:
 <a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
